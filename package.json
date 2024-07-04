@@ -13,6 +13,7 @@
   },
   "main": "background.js",
   "dependencies": {
+    "applicationinsights": "^3.2.0",
     "core-js": "^3.37.1",
     "vue": "^3.2.13"
   },
